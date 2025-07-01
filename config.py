@@ -1,0 +1,9 @@
+class Config:
+    API_ID = "YOUR_API_ID"
+    API_HASH = "YOUR_API_HASH"
+    BOT_TOKEN = "YOUR_BOT_TOKEN"
+    HELPER_TOKENS = "BOT1_TOKEN BOT2_TOKEN"  # Space-separated bot tokens
+    LEECH_DUMP_CHAT = "YOUR_DUMP_CHAT_ID"  # e.g., -100123456789
+    HYPER_THREADS = 8
+    CHUNK_SIZE = 1024 * 1024
+    DOWNLOAD_DIR = "downloads"
