@@ -1,2 +1,2 @@
 pyrogram
-HyperDL
+git+https://github.com/dsyhyh/HyperDL
